@@ -1,0 +1,19 @@
+.redpink {
+  background-color: rgb(255, 155, 157);
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#one {
+  color: rgb(0, 24, 247);
+  font-size: 36px;
+}
+
+.cooler {
+  font-size: 24px;
+}
+
+#boldgreen {
+  background-color: #74ff80;
+  font-size: 24px;
+  font-weight: bold;
+}
